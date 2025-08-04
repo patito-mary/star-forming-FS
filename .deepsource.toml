@@ -1,6 +1,6 @@
 version = 1
 
-test_patterns = ["QF_cluestercenterdistance-Copy1.ipynb"]
+test_patterns = ["**.ipynb"]
 
 [[analyzers]]
 name = "python"
