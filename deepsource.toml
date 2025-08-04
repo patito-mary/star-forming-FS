@@ -1,0 +1,9 @@
+version = 1
+
+test_patterns = ["QF_cluestercenterdistance-Copy1.ipynb"]
+
+[[analyzers]]
+name = "python"
+
+  [analyzers.meta]
+  runtime_version = "3.x.x"
